@@ -19,5 +19,19 @@ basically, its a desktop pet that you can play around with i guessz
 to unzip da file, yuo haev to use something something something like win-rar ->https://www.win-rar.com/download.html?&L=0
 <br>
   <img src="https://github.com/user-attachments/assets/7290e90e-33a4-472b-9720-3fdd2cbaed35" />
-
+</p>
+<p align="center">
+  ✦✦•---☆---•✦✦<br>
+  making yuor own shimeji
+  <br><br>
+  if you never made a shimeji before, i recommend you to download the original first https://kilkakon.com/shimeji/ <br><br>
+  now that yuo got the file, there's 3 things you can customize, <b>img of the shimeji, behaviors, and actions</b><br><br>
+  if you know more technical stuff, you can def customize even more but idk anything about it so wtv<br><br>
+anywayz, the image size is usually 128x128px, you can use the template in the original file as a guide, you can change the animation too in the action.xml using code editorz
+  <br><br>
+im still kinda scared to even touch the action.xml no
+  <br><br>
+  i have a few great tutorials for customizing your own shimeji<br>first we got this cool YouTuber by the name <b>rinspirit_art</b> who made these vidz https://youtu.be/xVCYm8kZn1g?si=t_MZ4BV7Ho7ws9ik
+  <br><br>
+  then we got this post on Tumblr that i find really useful as a guide, it also have a part 2 in the post https://aki-appeared-and.tumblr.com/post/93795517328/i-find-most-shimeji-tutorials-focus-a-little-to
 </p>

@@ -1,15 +1,18 @@
+<div align="center">
+<img src="https://images2.imgbox.com/51/68/VC0Q4weS_o.png" alt="image host"/>
+
 # Shimejizz
 Hewwo!!!!1!1!1!! it's me DWn!<br> 
 so for the past couple weeks i was messing around with a thing called<b> shimeji</b><br>
 basically, its a desktop pet that you can play around with i guessz
 <p align="center">
-  so I made my own shimeji, so far i only made Itsuki from bokuyona shimeji, im planning to make more, so i might update this read.me more often<br>
-(click da images)<br>
+  so I made my own shimeji, so far i only made Itsuki from bokuyona shimeji, im planning to make more, so i might update this readme more often<br>
+(click da images ti download)<br>
 <a href="https://github.com/DWnecrozzma/DWn-shimeji/blob/main/Zoshigaya_Itsuki.zip"><img width="128" height="128" alt="1000093234" src="https://github.com/user-attachments/assets/7339b37b-f70b-42ce-9538-0948ce1ecd8c" alt="click here"/>
 </a>
   <br>
 ✦✦•---☆---•✦✦<br>
-  tutorial on setting it up
+  tutorial on setting it up<br>
 <img src="https://github.com/user-attachments/assets/154ffdb4-fab7-4247-8386-a5a9cb30f69c">
 </p>
 <p>
@@ -35,3 +38,5 @@ im still kinda scared to even touch the action.xml tho, xml is almost like html 
   <br><br>
   then we got this post on Tumblr that i find really useful as a guide, it also have a part 2 in the post https://aki-appeared-and.tumblr.com/post/93795517328/i-find-most-shimeji-tutorials-focus-a-little-to
 </p>
+<img src="https://images2.imgbox.com/f3/34/6a03a4KS_o.png" alt="image host" align="center"/>
+</div>

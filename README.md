@@ -29,7 +29,7 @@ to unzip da file, yuo haev to use something something something like win-rar ->h
   if you know more technical stuff, you can def customize even more but idk anything about it so wtv<br><br>
 anywayz, the image size is usually 128x128px, you can use the template in the original file as a guide, you can change the animation too in the action.xml using code editorz
   <br><br>
-im still kinda scared to even touch the action.xml no
+im still kinda scared to even touch the action.xml tho, xml is almost like html but you basically can make your own tags, but shimeji still only accept certain tags and even a single error could be fatal so... yea
   <br><br>
   i have a few great tutorials for customizing your own shimeji<br>first we got this cool YouTuber by the name <b>rinspirit_art</b> who made these vidz https://youtu.be/xVCYm8kZn1g?si=t_MZ4BV7Ho7ws9ik
   <br><br>
